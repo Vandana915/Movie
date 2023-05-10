@@ -1,0 +1,6 @@
+.App {
+  /* background-color: black; */
+  background-image:radial-gradient(rgb(126, 84, 16)40% ,rgb(23, 8, 8));
+  color: white;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
